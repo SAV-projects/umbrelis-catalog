@@ -18,3 +18,4 @@ source: the Ollama registry, Hugging Face, the Comfy Registry, GitHub releases, 
 
 The catalog is built and signed from the Umbrelis repository (`npm run store:catalog`,
 `npm run store:sign`); see its `docs/STORE.md`.
+- 2026-10-19: sequence 1792372894, 227 listings, from the frontier research of 2026-10-18-deep.
